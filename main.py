@@ -1,2 +1,3 @@
 def count_days_to_year_end():
-    pass
+    *** функция выводит количество дней до нг ***
+    print(10)
